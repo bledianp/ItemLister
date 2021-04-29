@@ -1,28 +1,14 @@
-{
-  "tasks": [
-    {
-      "title": "",
-      "id": 9
-    },
-    {
-      "title": "jnf j ",
-      "id": 10
-    },
-    {
-      "title": "e je e",
-      "id": 11
-    },
-    {
-      "title": " ejf jef ",
-      "id": 12
-    },
-    {
-      "title": "e jfe e",
-      "id": 13
-    },
-    {
-      "title": "mz z ",
-      "id": 14
-    }
-  ]
-}
+[
+  {
+    "title": "Sugar",
+    "id": 2
+  },
+  {
+    "title": "Bread",
+    "id": 3
+  },
+  {
+    "title": "Milk",
+    "id": 4
+  }
+]
